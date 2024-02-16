@@ -1,0 +1,1489 @@
+{
+    "channels": [
+        {
+            "shows": [
+                {
+                    "endTime": 540,
+                    "title": "Επανάληψη Προγράμματος",
+                    "startTime": 60,
+                    "endTimeCaption": "09:00",
+                    "startTimeCaption": "01:00"
+                },
+                {
+                    "endTime": 570,
+                    "title": "Αστικό Τοπίο Κ3 Ε1",
+                    "startTime": 540,
+                    "endTimeCaption": "09:30",
+                    "startTimeCaption": "09:00"
+                },
+                {
+                    "endTime": 600,
+                    "title": "Φοιτητιβίσματα",
+                    "startTime": 570,
+                    "endTimeCaption": "10:00",
+                    "startTimeCaption": "09:30"
+                },
+                {
+                    "endTime": 690,
+                    "title": "Κάρτα Μέλους / Διαβουλεύσεις",
+                    "startTime": 600,
+                    "endTimeCaption": "11:30",
+                    "startTimeCaption": "10:00"
+                },
+                {
+                    "endTime": 720,
+                    "title": "Έλληνες Αειναύτες",
+                    "startTime": 690,
+                    "endTimeCaption": "12:00",
+                    "startTimeCaption": "11:30"
+                },
+                {
+                    "endTime": 810,
+                    "title": "Βουλή επί 7",
+                    "startTime": 720,
+                    "endTimeCaption": "13:30",
+                    "startTimeCaption": "12:00"
+                },
+                {
+                    "endTime": 840,
+                    "title": "Αστικό Τοπίο Κ2",
+                    "startTime": 810,
+                    "endTimeCaption": "14:00",
+                    "startTimeCaption": "13:30"
+                },
+                {
+                    "endTime": 900,
+                    "title": "Οδός Ελλήνων",
+                    "startTime": 840,
+                    "endTimeCaption": "15:00",
+                    "startTimeCaption": "14:00"
+                },
+                {
+                    "endTime": 930,
+                    "title": "Μαγικός Φανός",
+                    "startTime": 900,
+                    "endTimeCaption": "15:30",
+                    "startTimeCaption": "15:00"
+                },
+                {
+                    "endTime": 960,
+                    "title": "Τα Νέα της Ε.Σ.Α.μεΑ",
+                    "startTime": 930,
+                    "endTimeCaption": "16:00",
+                    "startTimeCaption": "15:30"
+                },
+                {
+                    "endTime": 1020,
+                    "title": "Βιβλιοβούλιο",
+                    "startTime": 960,
+                    "endTimeCaption": "17:00",
+                    "startTimeCaption": "16:00"
+                },
+                {
+                    "endTime": 1080,
+                    "title": "Εκπαιδευτική Τηλεόραση",
+                    "startTime": 1020,
+                    "endTimeCaption": "18:00",
+                    "startTimeCaption": "17:00"
+                },
+                {
+                    "endTime": 1140,
+                    "title": "Ο Λόγος της Γραφής Κ2",
+                    "startTime": 1080,
+                    "endTimeCaption": "19:00",
+                    "startTimeCaption": "18:00"
+                },
+                {
+                    "endTime": 1200,
+                    "title": "Θεατροσκόπιο",
+                    "startTime": 1140,
+                    "endTimeCaption": "20:00",
+                    "startTimeCaption": "19:00"
+                },
+                {
+                    "endTime": 1230,
+                    "title": "Λόγω Τέχνης",
+                    "startTime": 1200,
+                    "endTimeCaption": "20:30",
+                    "startTimeCaption": "20:00"
+                },
+                {
+                    "endTime": 1260,
+                    "title": "Αναμνήσεις του 20ού Αιώνα Ε1",
+                    "startTime": 1230,
+                    "endTimeCaption": "21:00",
+                    "startTimeCaption": "20:30"
+                },
+                {
+                    "endTime": 1320,
+                    "title": "Η Ζωή μου στη Γερμανία του Χίτλερ Κ1 Ε1",
+                    "startTime": 1260,
+                    "endTimeCaption": "22:00",
+                    "startTimeCaption": "21:00"
+                },
+                {
+                    "endTime": 1380,
+                    "title": "Μια Ταινία, Μια Εποχή Ε14",
+                    "startTime": 1320,
+                    "endTimeCaption": "23:00",
+                    "startTimeCaption": "22:00"
+                },
+                {
+                    "endTime": 1500,
+                    "title": "Με Λένε Ερνέστο (Infancia Clandestina)",
+                    "startTime": 1380,
+                    "endTimeCaption": "01:00",
+                    "startTimeCaption": "23:00"
+                },
+                {
+                    "endTime": 1980,
+                    "title": "Επανάληψη Προγράμματος",
+                    "startTime": 1500,
+                    "endTimeCaption": "09:00",
+                    "startTimeCaption": "01:00"
+                }
+            ],
+            "channelName": "ΒΟΥΛΗ"
+        },
+        {
+            "shows": [
+                {
+                    "endTime": 340,
+                    "title": "The Sex Pistols - There Will Always Be An England (Ε)",
+                    "startTime": 270,
+                    "endTimeCaption": "05:40",
+                    "startTimeCaption": "04:30"
+                },
+                {
+                    "endTime": 360,
+                    "title": "Σαν Σήμερα τον 20ό Αιώνα",
+                    "startTime": 340,
+                    "endTimeCaption": "06:00",
+                    "startTimeCaption": "05:40"
+                },
+                {
+                    "endTime": 540,
+                    "title": "Μαζί το Σαββατοκύριακο",
+                    "startTime": 360,
+                    "endTimeCaption": "09:00",
+                    "startTimeCaption": "06:00"
+                },
+                {
+                    "endTime": 720,
+                    "title": "Επιλογές",
+                    "startTime": 540,
+                    "endTimeCaption": "12:00",
+                    "startTimeCaption": "09:00"
+                },
+                {
+                    "endTime": 750,
+                    "title": "ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός",
+                    "startTime": 720,
+                    "endTimeCaption": "12:30",
+                    "startTimeCaption": "12:00"
+                },
+                {
+                    "endTime": 810,
+                    "title": "Επτά",
+                    "startTime": 750,
+                    "endTimeCaption": "13:30",
+                    "startTimeCaption": "12:30"
+                },
+                {
+                    "endTime": 900,
+                    "title": "Europe",
+                    "startTime": 810,
+                    "endTimeCaption": "15:00",
+                    "startTimeCaption": "13:30"
+                },
+                {
+                    "endTime": 960,
+                    "title": "ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός",
+                    "startTime": 900,
+                    "endTimeCaption": "16:00",
+                    "startTimeCaption": "15:00"
+                },
+                {
+                    "endTime": 1020,
+                    "title": "Από τον Φρόιντ στο Διαδίκτυο (Ε)",
+                    "startTime": 960,
+                    "endTimeCaption": "17:00",
+                    "startTimeCaption": "16:00"
+                },
+                {
+                    "endTime": 1080,
+                    "title": "Ιστορίες Μόδας Κ2 (Ε)",
+                    "startTime": 1020,
+                    "endTimeCaption": "18:00",
+                    "startTimeCaption": "17:00"
+                },
+                {
+                    "endTime": 1110,
+                    "title": "ΕΡΤ Ειδήσεις",
+                    "startTime": 1080,
+                    "endTimeCaption": "18:30",
+                    "startTimeCaption": "18:00"
+                },
+                {
+                    "endTime": 1160,
+                    "title": "Η Ζωή Αλλιώς",
+                    "startTime": 1110,
+                    "endTimeCaption": "19:20",
+                    "startTimeCaption": "18:30"
+                },
+                {
+                    "endTime": 1260,
+                    "title": "Ο Τρελός τα 'Χει 400",
+                    "startTime": 1160,
+                    "endTimeCaption": "21:00",
+                    "startTimeCaption": "19:20"
+                },
+                {
+                    "endTime": 1305,
+                    "title": "Κεντρικό Δελτίο Ειδήσεων - Αθλητικά",
+                    "startTime": 1260,
+                    "endTimeCaption": "21:45",
+                    "startTimeCaption": "21:00"
+                },
+                {
+                    "endTime": 1320,
+                    "title": "Καιρός για... ΕΡΤ",
+                    "startTime": 1305,
+                    "endTimeCaption": "22:00",
+                    "startTimeCaption": "21:45"
+                },
+                {
+                    "endTime": 1440,
+                    "title": "Στα Τραγούδια Λέμε Ναι Κ3 (Ε)",
+                    "startTime": 1320,
+                    "endTimeCaption": "00:00",
+                    "startTimeCaption": "22:00"
+                },
+                {
+                    "endTime": 1445,
+                    "title": "ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός",
+                    "startTime": 1440,
+                    "endTimeCaption": "00:05",
+                    "startTimeCaption": "00:00"
+                },
+                {
+                    "endTime": 1515,
+                    "title": "Στα Τραγούδια Λέμε Ναι Κ3",
+                    "startTime": 1445,
+                    "endTimeCaption": "01:15",
+                    "startTimeCaption": "00:05"
+                },
+                {
+                    "endTime": 1570,
+                    "title": "Η Ζωή Αλλιώς",
+                    "startTime": 1515,
+                    "endTimeCaption": "02:10",
+                    "startTimeCaption": "01:15"
+                },
+                {
+                    "endTime": 1630,
+                    "title": "Από τον Φρόιντ στο Διαδίκτυο",
+                    "startTime": 1570,
+                    "endTimeCaption": "03:10",
+                    "startTimeCaption": "02:10"
+                },
+                {
+                    "endTime": 1785,
+                    "title": "Ιστορίες Μόδας Κ2",
+                    "startTime": 1630,
+                    "endTimeCaption": "05:45",
+                    "startTimeCaption": "03:10"
+                }
+            ],
+            "channelName": "ΕΡΤ1"
+        },
+        {
+            "shows": [
+                {
+                    "endTime": 330,
+                    "title": "Ψέματα και Αλήθεια Έτσι Είναι τα Παραμύθια (Ε)",
+                    "startTime": 300,
+                    "endTimeCaption": "05:30",
+                    "startTimeCaption": "05:00"
+                },
+                {
+                    "endTime": 360,
+                    "title": "Ο Γύρος του Κόσμου με 80 Βιβλία",
+                    "startTime": 330,
+                    "endTimeCaption": "06:00",
+                    "startTimeCaption": "05:30"
+                },
+                {
+                    "endTime": 420,
+                    "title": "Εμείς και ο Μπλε Πλανήτης",
+                    "startTime": 360,
+                    "endTimeCaption": "07:00",
+                    "startTimeCaption": "06:00"
+                },
+                {
+                    "endTime": 460,
+                    "title": "Molang (Ε)",
+                    "startTime": 420,
+                    "endTimeCaption": "07:40",
+                    "startTimeCaption": "07:00"
+                },
+                {
+                    "endTime": 480,
+                    "title": "Η Τίλι Και οι Φίλοι Της (Ε)",
+                    "startTime": 460,
+                    "endTimeCaption": "08:00",
+                    "startTimeCaption": "07:40"
+                },
+                {
+                    "endTime": 510,
+                    "title": "Γάτος Σπιρουνάτος Ε26 (Ε)",
+                    "startTime": 480,
+                    "endTimeCaption": "08:30",
+                    "startTimeCaption": "08:00"
+                },
+                {
+                    "endTime": 525,
+                    "title": "Γάτος Σπιρουνάτος Ε1 (Ε)",
+                    "startTime": 510,
+                    "endTimeCaption": "08:45",
+                    "startTimeCaption": "08:30"
+                },
+                {
+                    "endTime": 555,
+                    "title": "Λουί (Ε)",
+                    "startTime": 525,
+                    "endTimeCaption": "09:15",
+                    "startTimeCaption": "08:45"
+                },
+                {
+                    "endTime": 600,
+                    "title": "Ο Μουκ",
+                    "startTime": 555,
+                    "endTimeCaption": "10:00",
+                    "startTimeCaption": "09:15"
+                },
+                {
+                    "endTime": 610,
+                    "title": "Η Μιρέτ Ερευνά Ε27",
+                    "startTime": 600,
+                    "endTimeCaption": "10:10",
+                    "startTimeCaption": "10:00"
+                },
+                {
+                    "endTime": 620,
+                    "title": "Η Μιρέτ Ερευνά Ε28",
+                    "startTime": 610,
+                    "endTimeCaption": "10:20",
+                    "startTimeCaption": "10:10"
+                },
+                {
+                    "endTime": 630,
+                    "title": "Η Μιρέτ Ερευνά Ε29",
+                    "startTime": 620,
+                    "endTimeCaption": "10:30",
+                    "startTimeCaption": "10:20"
+                },
+                {
+                    "endTime": 660,
+                    "title": "Σκίουρος της Συμφοράς (Ε)",
+                    "startTime": 630,
+                    "endTimeCaption": "11:00",
+                    "startTimeCaption": "10:30"
+                },
+                {
+                    "endTime": 675,
+                    "title": "Γιάκαρι Ε21 (Ε)",
+                    "startTime": 660,
+                    "endTimeCaption": "11:15",
+                    "startTimeCaption": "11:00"
+                },
+                {
+                    "endTime": 690,
+                    "title": "Γιάκαρι Ε22 (Ε)",
+                    "startTime": 675,
+                    "endTimeCaption": "11:30",
+                    "startTimeCaption": "11:15"
+                },
+                {
+                    "endTime": 705,
+                    "title": "Γιάκαρι Ε23 (Ε)",
+                    "startTime": 690,
+                    "endTimeCaption": "11:45",
+                    "startTimeCaption": "11:30"
+                },
+                {
+                    "endTime": 720,
+                    "title": "Γιάκαρι Ε24 (Ε)",
+                    "startTime": 705,
+                    "endTimeCaption": "12:00",
+                    "startTimeCaption": "11:45"
+                },
+                {
+                    "endTime": 730,
+                    "title": "Ο Δρόμος προς το Σχολείο: 199 Μικροί Ήρωες",
+                    "startTime": 720,
+                    "endTimeCaption": "12:10",
+                    "startTimeCaption": "12:00"
+                },
+                {
+                    "endTime": 755,
+                    "title": "1.000 Χρώματα του Χρήστου Ε8 (Ε)",
+                    "startTime": 730,
+                    "endTimeCaption": "12:35",
+                    "startTimeCaption": "12:10"
+                },
+                {
+                    "endTime": 795,
+                    "title": "1.000 Χρώματα του Χρήστου Ε10 (Ε)",
+                    "startTime": 755,
+                    "endTimeCaption": "13:15",
+                    "startTimeCaption": "12:35"
+                },
+                {
+                    "endTime": 840,
+                    "title": "Γεύσεις από Ελλάδα (Ε)",
+                    "startTime": 795,
+                    "endTimeCaption": "14:00",
+                    "startTimeCaption": "13:15"
+                },
+                {
+                    "endTime": 930,
+                    "title": "Μια Νύχτα στον Παράδεισο",
+                    "startTime": 840,
+                    "endTimeCaption": "15:30",
+                    "startTimeCaption": "14:00"
+                },
+                {
+                    "endTime": 975,
+                    "title": "Ο Ψεύτης Παππούς Ε8 (Ε)",
+                    "startTime": 930,
+                    "endTimeCaption": "16:15",
+                    "startTimeCaption": "15:30"
+                },
+                {
+                    "endTime": 1020,
+                    "title": "Ο Ψεύτης Παππούς Ε9 (Ε)",
+                    "startTime": 975,
+                    "endTimeCaption": "17:00",
+                    "startTimeCaption": "16:15"
+                },
+                {
+                    "endTime": 1050,
+                    "title": "Οι Αδελφοί Ντάλντον",
+                    "startTime": 1020,
+                    "endTimeCaption": "17:30",
+                    "startTimeCaption": "17:00"
+                },
+                {
+                    "endTime": 1110,
+                    "title": "Θαύματα: Η Χερσόνησος των θησαυρών Ε3",
+                    "startTime": 1050,
+                    "endTimeCaption": "18:30",
+                    "startTimeCaption": "17:30"
+                },
+                {
+                    "endTime": 1155,
+                    "title": "Μπαμπάδες Εν... Δράσει Κ3 Ε2",
+                    "startTime": 1110,
+                    "endTimeCaption": "19:15",
+                    "startTimeCaption": "18:30"
+                },
+                {
+                    "endTime": 1200,
+                    "title": "Μπαμπάδες Εν... Δράσει Κ3 Ε3",
+                    "startTime": 1155,
+                    "endTimeCaption": "20:00",
+                    "startTimeCaption": "19:15"
+                },
+                {
+                    "endTime": 1260,
+                    "title": "Οίνος ο Αγαπητός Ε9 (Ε)",
+                    "startTime": 1200,
+                    "endTimeCaption": "21:00",
+                    "startTimeCaption": "20:00"
+                },
+                {
+                    "endTime": 1320,
+                    "title": "Ντετέκτιβ Μέρντοχ Κ10 Ε7 (Ε)",
+                    "startTime": 1260,
+                    "endTimeCaption": "22:00",
+                    "startTimeCaption": "21:00"
+                },
+                {
+                    "endTime": 1380,
+                    "title": "Βασίλισσες Κ1 Ε6",
+                    "startTime": 1320,
+                    "endTimeCaption": "23:00",
+                    "startTimeCaption": "22:00"
+                },
+                {
+                    "endTime": 1515,
+                    "title": "Το Γυάλινο Κάστρο",
+                    "startTime": 1380,
+                    "endTimeCaption": "01:15",
+                    "startTimeCaption": "23:00"
+                },
+                {
+                    "endTime": 1635,
+                    "title": "The Tale",
+                    "startTime": 1515,
+                    "endTimeCaption": "03:15",
+                    "startTimeCaption": "01:15"
+                },
+                {
+                    "endTime": 1680,
+                    "title": "Ντετέκτιβ Μέρντοχ Κ10 Ε7 (Ε)",
+                    "startTime": 1635,
+                    "endTimeCaption": "04:00",
+                    "startTimeCaption": "03:15"
+                }
+            ],
+            "channelName": "ΕΡΤ2"
+        },
+        {
+            "shows": [
+                {
+                    "endTime": 360,
+                    "title": "Συν (Ε)",
+                    "startTime": 270,
+                    "endTimeCaption": "06:00",
+                    "startTimeCaption": "04:30"
+                },
+                {
+                    "endTime": 390,
+                    "title": "Περιπέτειες στη Φύση Ε14",
+                    "startTime": 360,
+                    "endTimeCaption": "06:30",
+                    "startTimeCaption": "06:00"
+                },
+                {
+                    "endTime": 450,
+                    "title": "Μύθοι και Αλήθειες",
+                    "startTime": 390,
+                    "endTimeCaption": "07:30",
+                    "startTimeCaption": "06:30"
+                },
+                {
+                    "endTime": 510,
+                    "title": "Ο Τόπος της Καρδιάς μας Κ9 Ε6",
+                    "startTime": 450,
+                    "endTimeCaption": "08:30",
+                    "startTimeCaption": "07:30"
+                },
+                {
+                    "endTime": 570,
+                    "title": "Η 6η Συμφωνία του Τσαϊκόφσκι",
+                    "startTime": 510,
+                    "endTimeCaption": "09:30",
+                    "startTimeCaption": "08:30"
+                },
+                {
+                    "endTime": 600,
+                    "title": "Ο Μπετόβεν σε Έξι Σονάτες",
+                    "startTime": 570,
+                    "endTimeCaption": "10:00",
+                    "startTimeCaption": "09:30"
+                },
+                {
+                    "endTime": 660,
+                    "title": "Ο Τόπος της Καρδιάς μας Κ6 Ε1",
+                    "startTime": 600,
+                    "endTimeCaption": "11:00",
+                    "startTimeCaption": "10:00"
+                },
+                {
+                    "endTime": 720,
+                    "title": "Ο Τόπος της Καρδιάς μας Κ6 Ε2",
+                    "startTime": 660,
+                    "endTimeCaption": "12:00",
+                    "startTimeCaption": "11:00"
+                },
+                {
+                    "endTime": 780,
+                    "title": "Απίθανα Ταξίδια με Τρένο Ε4",
+                    "startTime": 720,
+                    "endTimeCaption": "13:00",
+                    "startTimeCaption": "12:00"
+                },
+                {
+                    "endTime": 840,
+                    "title": "Μεθόριοι Δρόμοι Ε7",
+                    "startTime": 780,
+                    "endTimeCaption": "14:00",
+                    "startTimeCaption": "13:00"
+                },
+                {
+                    "endTime": 870,
+                    "title": "Ειδήσεις",
+                    "startTime": 840,
+                    "endTimeCaption": "14:30",
+                    "startTimeCaption": "14:00"
+                },
+                {
+                    "endTime": 930,
+                    "title": "ΑΓΡΟweek Κ3 Ε19",
+                    "startTime": 870,
+                    "endTimeCaption": "15:30",
+                    "startTimeCaption": "14:30"
+                },
+                {
+                    "endTime": 960,
+                    "title": "Χωρίς Αυτοκίνητο Ε2 (Ε)",
+                    "startTime": 930,
+                    "endTimeCaption": "16:00",
+                    "startTimeCaption": "15:30"
+                },
+                {
+                    "endTime": 1020,
+                    "title": "Ζήσε την Ελλάδα Ε1 (Ε)",
+                    "startTime": 960,
+                    "endTimeCaption": "17:00",
+                    "startTimeCaption": "16:00"
+                },
+                {
+                    "endTime": 1080,
+                    "title": "Μοναδικά Ζευγάρια του Hollywood Ε1 (Ε)",
+                    "startTime": 1020,
+                    "endTimeCaption": "18:00",
+                    "startTimeCaption": "17:00"
+                },
+                {
+                    "endTime": 1140,
+                    "title": "Με το Βλέμμα στο Μέλλον Κ2 Ε2",
+                    "startTime": 1080,
+                    "endTimeCaption": "19:00",
+                    "startTimeCaption": "18:00"
+                },
+                {
+                    "endTime": 1170,
+                    "title": "Ειδήσεις",
+                    "startTime": 1140,
+                    "endTimeCaption": "19:30",
+                    "startTimeCaption": "19:00"
+                },
+                {
+                    "endTime": 1200,
+                    "title": "Ο Μπετόβεν σε Έξι Σονάτες",
+                    "startTime": 1170,
+                    "endTimeCaption": "20:00",
+                    "startTimeCaption": "19:30"
+                },
+                {
+                    "endTime": 1260,
+                    "title": "Ένας Περίπατος στην Τέχνη Ε2",
+                    "startTime": 1200,
+                    "endTimeCaption": "21:00",
+                    "startTimeCaption": "20:00"
+                },
+                {
+                    "endTime": 1320,
+                    "title": "Απόψε Κάνεις Μπαμ Κ3",
+                    "startTime": 1260,
+                    "endTimeCaption": "22:00",
+                    "startTimeCaption": "21:00"
+                },
+                {
+                    "endTime": 1410,
+                    "title": "1001 Γραμμάρια",
+                    "startTime": 1320,
+                    "endTimeCaption": "23:30",
+                    "startTimeCaption": "22:00"
+                },
+                {
+                    "endTime": 1485,
+                    "title": "Θάλασσα από Πλαστικό Ε5",
+                    "startTime": 1410,
+                    "endTimeCaption": "00:45",
+                    "startTimeCaption": "23:30"
+                },
+                {
+                    "endTime": 1545,
+                    "title": "Μικροπλασία Ε3 (Ε)",
+                    "startTime": 1485,
+                    "endTimeCaption": "01:45",
+                    "startTimeCaption": "00:45"
+                },
+                {
+                    "endTime": 1605,
+                    "title": "Με το Βλέμμα στο Μέλλον Κ2 Ε2 (Ε)",
+                    "startTime": 1545,
+                    "endTimeCaption": "02:45",
+                    "startTimeCaption": "01:45"
+                },
+                {
+                    "endTime": 1680,
+                    "title": "Ζήσε την Ελλάδα Ε1 (Ε)",
+                    "startTime": 1605,
+                    "endTimeCaption": "04:00",
+                    "startTimeCaption": "02:45"
+                }
+            ],
+            "channelName": "ΕΡΤ3"
+        },
+        {
+            "shows": [
+                {
+                    "endTime": 360,
+                    "title": "30 for 30",
+                    "startTime": 270,
+                    "endTimeCaption": "06:00",
+                    "startTimeCaption": "04:30"
+                },
+                {
+                    "endTime": 480,
+                    "title": "Μπάσκετ: Περιστέρι - Χάποελ Ιερουσαλήμ (Ε)",
+                    "startTime": 360,
+                    "endTimeCaption": "08:00",
+                    "startTimeCaption": "06:00"
+                },
+                {
+                    "endTime": 540,
+                    "title": "Dortmund TV",
+                    "startTime": 480,
+                    "endTimeCaption": "09:00",
+                    "startTimeCaption": "08:00"
+                },
+                {
+                    "endTime": 660,
+                    "title": "Bayern TV",
+                    "startTime": 540,
+                    "endTimeCaption": "11:00",
+                    "startTimeCaption": "09:00"
+                },
+                {
+                    "endTime": 780,
+                    "title": "Ποδόσφαιρο: Εργοτέλης - Δόξα Δράμας (Ε)",
+                    "startTime": 660,
+                    "endTimeCaption": "13:00",
+                    "startTimeCaption": "11:00"
+                },
+                {
+                    "endTime": 900,
+                    "title": "Βόλεϊ: Ολυμπιακός - Α. Ο. Θήρας (Ε)",
+                    "startTime": 780,
+                    "endTimeCaption": "15:00",
+                    "startTimeCaption": "13:00"
+                },
+                {
+                    "endTime": 1080,
+                    "title": "Juventus TV",
+                    "startTime": 900,
+                    "endTimeCaption": "18:00",
+                    "startTimeCaption": "15:00"
+                },
+                {
+                    "endTime": 1200,
+                    "title": "Βόλεϊ: Ολυμπιακός - Παναθηναϊκός (Ε)",
+                    "startTime": 1080,
+                    "endTimeCaption": "20:00",
+                    "startTimeCaption": "18:00"
+                },
+                {
+                    "endTime": 1320,
+                    "title": "Μπάσκετ: Τέλεκομ Μπάσκετς Μπον - ΑΕΚ (Ε)",
+                    "startTime": 1200,
+                    "endTimeCaption": "22:00",
+                    "startTimeCaption": "20:00"
+                },
+                {
+                    "endTime": 1440,
+                    "title": "Liverpool TV",
+                    "startTime": 1320,
+                    "endTimeCaption": "00:00",
+                    "startTimeCaption": "22:00"
+                },
+                {
+                    "endTime": 1560,
+                    "title": "Ajax TV",
+                    "startTime": 1440,
+                    "endTimeCaption": "02:00",
+                    "startTimeCaption": "00:00"
+                },
+                {
+                    "endTime": 1650,
+                    "title": "Στίβος: Πανελλήνιο Πρωτάθλημα Κλειστού Στίβου",
+                    "startTime": 1560,
+                    "endTimeCaption": "03:30",
+                    "startTimeCaption": "02:00"
+                },
+                {
+                    "endTime": 1740,
+                    "title": "Στίβος: Πανελλήνιο Πρωτάθλημα Κλειστού Στίβου",
+                    "startTime": 1650,
+                    "endTimeCaption": "05:00",
+                    "startTimeCaption": "03:30"
+                }
+            ],
+            "channelName": "ΕΡΤ SPORTS HD"
+        },
+        {
+            "shows": [
+                {
+                    "endTime": 360,
+                    "title": "Ιδιαιτέρα για Κλάματα (Ε)",
+                    "startTime": 300,
+                    "endTimeCaption": "06:00",
+                    "startTimeCaption": "05:00"
+                },
+                {
+                    "endTime": 420,
+                    "title": "Οι Μεν και οι Δεν (Ε)",
+                    "startTime": 360,
+                    "endTimeCaption": "07:00",
+                    "startTimeCaption": "06:00"
+                },
+                {
+                    "endTime": 660,
+                    "title": "Πρωινοί Τύποι",
+                    "startTime": 420,
+                    "endTimeCaption": "11:00",
+                    "startTimeCaption": "07:00"
+                },
+                {
+                    "endTime": 720,
+                    "title": "Υγεία Πάνω απ' Όλα",
+                    "startTime": 660,
+                    "endTimeCaption": "12:00",
+                    "startTimeCaption": "11:00"
+                },
+                {
+                    "endTime": 780,
+                    "title": "Εκείνες κι Εγώ (Ε)",
+                    "startTime": 720,
+                    "endTimeCaption": "13:00",
+                    "startTimeCaption": "12:00"
+                },
+                {
+                    "endTime": 825,
+                    "title": "ANT1 News",
+                    "startTime": 780,
+                    "endTimeCaption": "13:45",
+                    "startTimeCaption": "13:00"
+                },
+                {
+                    "endTime": 840,
+                    "title": "Merenda Mania",
+                    "startTime": 825,
+                    "endTimeCaption": "14:00",
+                    "startTimeCaption": "13:45"
+                },
+                {
+                    "endTime": 960,
+                    "title": "Κωνσταντίνου και Ελένης (Ε)",
+                    "startTime": 840,
+                    "endTimeCaption": "16:00",
+                    "startTimeCaption": "14:00"
+                },
+                {
+                    "endTime": 1020,
+                    "title": "Food n' Friends",
+                    "startTime": 960,
+                    "endTimeCaption": "17:00",
+                    "startTimeCaption": "16:00"
+                },
+                {
+                    "endTime": 1080,
+                    "title": "Πέτα τη Φριτέζα Κ2 Ε41 (Ε)",
+                    "startTime": 1020,
+                    "endTimeCaption": "18:00",
+                    "startTimeCaption": "17:00"
+                },
+                {
+                    "endTime": 1095,
+                    "title": "ΑΝΤ1 News - Δελτίο στη Νοηματική Γλώσσα",
+                    "startTime": 1080,
+                    "endTimeCaption": "18:15",
+                    "startTimeCaption": "18:00"
+                },
+                {
+                    "endTime": 1170,
+                    "title": "Το Καφέ της Χαράς Κ4 Ε11 (Ε)",
+                    "startTime": 1095,
+                    "endTimeCaption": "19:30",
+                    "startTimeCaption": "18:15"
+                },
+                {
+                    "endTime": 1245,
+                    "title": "ANT1 News",
+                    "startTime": 1170,
+                    "endTimeCaption": "20:45",
+                    "startTimeCaption": "19:30"
+                },
+                {
+                    "endTime": 1380,
+                    "title": "Χτυποκάρδια στο Θρανίο",
+                    "startTime": 1245,
+                    "endTimeCaption": "23:00",
+                    "startTimeCaption": "20:45"
+                },
+                {
+                    "endTime": 1530,
+                    "title": "Κόκκινη Γωνία (Red Corner)",
+                    "startTime": 1380,
+                    "endTimeCaption": "01:30",
+                    "startTimeCaption": "23:00"
+                },
+                {
+                    "endTime": 1590,
+                    "title": "VICE Κ8",
+                    "startTime": 1530,
+                    "endTimeCaption": "02:30",
+                    "startTimeCaption": "01:30"
+                },
+                {
+                    "endTime": 1650,
+                    "title": "Ιστορίες Μυστηρίου (Ε)",
+                    "startTime": 1590,
+                    "endTimeCaption": "03:30",
+                    "startTimeCaption": "02:30"
+                },
+                {
+                    "endTime": 1740,
+                    "title": "Έρωτας (Ε)",
+                    "startTime": 1650,
+                    "endTimeCaption": "05:00",
+                    "startTimeCaption": "03:30"
+                }
+            ],
+            "channelName": "ANT1 HD"
+        },
+        {
+            "shows": [
+                {
+                    "endTime": 315,
+                    "title": "Θυρίδα Τηλεπώλησης",
+                    "startTime": 285,
+                    "endTimeCaption": "05:15",
+                    "startTimeCaption": "04:45"
+                },
+                {
+                    "endTime": 370,
+                    "title": "Divided (Ε)",
+                    "startTime": 315,
+                    "endTimeCaption": "06:10",
+                    "startTimeCaption": "05:15"
+                },
+                {
+                    "endTime": 400,
+                    "title": "Θυρίδα Τηλεπώλησης",
+                    "startTime": 370,
+                    "endTimeCaption": "06:40",
+                    "startTimeCaption": "06:10"
+                },
+                {
+                    "endTime": 465,
+                    "title": "Total Dreamer Ε108",
+                    "startTime": 400,
+                    "endTimeCaption": "07:45",
+                    "startTimeCaption": "06:40"
+                },
+                {
+                    "endTime": 525,
+                    "title": "Νόστιμη Γη (Ε)",
+                    "startTime": 465,
+                    "endTimeCaption": "08:45",
+                    "startTimeCaption": "07:45"
+                },
+                {
+                    "endTime": 600,
+                    "title": "Οδηγός Καλής Ζωής (Ε)",
+                    "startTime": 525,
+                    "endTimeCaption": "10:00",
+                    "startTimeCaption": "08:45"
+                },
+                {
+                    "endTime": 780,
+                    "title": "Σαββατοκύριακο με τον Μάνεση",
+                    "startTime": 600,
+                    "endTimeCaption": "13:00",
+                    "startTimeCaption": "10:00"
+                },
+                {
+                    "endTime": 830,
+                    "title": "Ειδήσεις",
+                    "startTime": 780,
+                    "endTimeCaption": "13:50",
+                    "startTimeCaption": "13:00"
+                },
+                {
+                    "endTime": 1010,
+                    "title": "Καλύτερα δε Γίνεται!",
+                    "startTime": 830,
+                    "endTimeCaption": "16:50",
+                    "startTimeCaption": "13:50"
+                },
+                {
+                    "endTime": 1070,
+                    "title": "Kitchen Lab",
+                    "startTime": 1010,
+                    "endTimeCaption": "17:50",
+                    "startTimeCaption": "16:50"
+                },
+                {
+                    "endTime": 1080,
+                    "title": "Δελτίο Ειδήσεων στη Νοηματική Γλώσσα",
+                    "startTime": 1070,
+                    "endTimeCaption": "18:00",
+                    "startTimeCaption": "17:50"
+                },
+                {
+                    "endTime": 1140,
+                    "title": "Μην Αρχίζεις τη Μουρμούρα Κ7 Ε42 (Ε)",
+                    "startTime": 1080,
+                    "endTimeCaption": "19:00",
+                    "startTimeCaption": "18:00"
+                },
+                {
+                    "endTime": 1200,
+                    "title": "Κεντρικό Δελτίο Ειδήσεων",
+                    "startTime": 1140,
+                    "endTimeCaption": "20:00",
+                    "startTimeCaption": "19:00"
+                },
+                {
+                    "endTime": 1320,
+                    "title": "Η Παριζιάνα",
+                    "startTime": 1200,
+                    "endTimeCaption": "22:00",
+                    "startTimeCaption": "20:00"
+                },
+                {
+                    "endTime": 1470,
+                    "title": "Air Force One",
+                    "startTime": 1320,
+                    "endTimeCaption": "00:30",
+                    "startTimeCaption": "22:00"
+                },
+                {
+                    "endTime": 1605,
+                    "title": "Η Πρόταση (The Proposal)",
+                    "startTime": 1470,
+                    "endTimeCaption": "02:45",
+                    "startTimeCaption": "00:30"
+                },
+                {
+                    "endTime": 1680,
+                    "title": "Μεσάνυχτα (Ε)",
+                    "startTime": 1605,
+                    "endTimeCaption": "04:00",
+                    "startTimeCaption": "02:45"
+                }
+            ],
+            "channelName": "ALPHA HD"
+        },
+        {
+            "shows": [
+                {
+                    "endTime": 360,
+                    "title": "Η Άννα και ο Βασιλιάς (Anna and the King)",
+                    "startTime": 195,
+                    "endTimeCaption": "06:00",
+                    "startTimeCaption": "03:15"
+                },
+                {
+                    "endTime": 390,
+                    "title": "Duck Dodgers",
+                    "startTime": 360,
+                    "endTimeCaption": "06:30",
+                    "startTimeCaption": "06:00"
+                },
+                {
+                    "endTime": 420,
+                    "title": "Sylvester and Tweety Mysteries",
+                    "startTime": 390,
+                    "endTimeCaption": "07:00",
+                    "startTimeCaption": "06:30"
+                },
+                {
+                    "endTime": 450,
+                    "title": "Ο Βασιλιάς Τζούλιαν",
+                    "startTime": 420,
+                    "endTimeCaption": "07:30",
+                    "startTimeCaption": "07:00"
+                },
+                {
+                    "endTime": 480,
+                    "title": "Ben and Holly's Little Kingdom",
+                    "startTime": 450,
+                    "endTimeCaption": "08:00",
+                    "startTimeCaption": "07:30"
+                },
+                {
+                    "endTime": 510,
+                    "title": "Robocar Poli",
+                    "startTime": 480,
+                    "endTimeCaption": "08:30",
+                    "startTimeCaption": "08:00"
+                },
+                {
+                    "endTime": 525,
+                    "title": "Πέππα, το Γουρουνάκι",
+                    "startTime": 510,
+                    "endTimeCaption": "08:45",
+                    "startTimeCaption": "08:30"
+                },
+                {
+                    "endTime": 555,
+                    "title": "Οι Ευχούληδες: Το Πάρτι Συνεχίζεται",
+                    "startTime": 525,
+                    "endTimeCaption": "09:15",
+                    "startTimeCaption": "08:45"
+                },
+                {
+                    "endTime": 585,
+                    "title": "Αρχηγός από Κούνια",
+                    "startTime": 555,
+                    "endTimeCaption": "09:45",
+                    "startTimeCaption": "09:15"
+                },
+                {
+                    "endTime": 615,
+                    "title": "Bobby and Bill",
+                    "startTime": 585,
+                    "endTimeCaption": "10:15",
+                    "startTimeCaption": "09:45"
+                },
+                {
+                    "endTime": 645,
+                    "title": "PJ Masks",
+                    "startTime": 615,
+                    "endTimeCaption": "10:45",
+                    "startTimeCaption": "10:15"
+                },
+                {
+                    "endTime": 675,
+                    "title": "Μαλλιά Κουβάρια: Η Σειρά",
+                    "startTime": 645,
+                    "endTimeCaption": "11:15",
+                    "startTimeCaption": "10:45"
+                },
+                {
+                    "endTime": 720,
+                    "title": "Η Barbie και ο Μαγεμένος Πήγασος (Barbie and the Magic Pegasus)",
+                    "startTime": 675,
+                    "endTimeCaption": "12:00",
+                    "startTimeCaption": "11:15"
+                },
+                {
+                    "endTime": 740,
+                    "title": "Scooby-Doo! Mystery Incorporated",
+                    "startTime": 720,
+                    "endTimeCaption": "12:20",
+                    "startTimeCaption": "12:00"
+                },
+                {
+                    "endTime": 840,
+                    "title": "Ντένις ο Τρομερός (Dennis the Menace)",
+                    "startTime": 740,
+                    "endTimeCaption": "14:00",
+                    "startTimeCaption": "12:20"
+                },
+                {
+                    "endTime": 900,
+                    "title": "Stars System",
+                    "startTime": 840,
+                    "endTimeCaption": "15:00",
+                    "startTimeCaption": "14:00"
+                },
+                {
+                    "endTime": 915,
+                    "title": "Star News",
+                    "startTime": 900,
+                    "endTimeCaption": "15:15",
+                    "startTimeCaption": "15:00"
+                },
+                {
+                    "endTime": 945,
+                    "title": "Τα Φιλαράκια Κ2 Ε13",
+                    "startTime": 915,
+                    "endTimeCaption": "15:45",
+                    "startTimeCaption": "15:15"
+                },
+                {
+                    "endTime": 975,
+                    "title": "Τα Φιλαράκια Κ2 Ε14",
+                    "startTime": 945,
+                    "endTimeCaption": "16:15",
+                    "startTimeCaption": "15:45"
+                },
+                {
+                    "endTime": 1005,
+                    "title": "Two and a Half Men Κ6 Ε14",
+                    "startTime": 975,
+                    "endTimeCaption": "16:45",
+                    "startTimeCaption": "16:15"
+                },
+                {
+                    "endTime": 1030,
+                    "title": "Two and a Half Men Κ6 Ε15",
+                    "startTime": 1005,
+                    "endTimeCaption": "17:10",
+                    "startTimeCaption": "16:45"
+                },
+                {
+                    "endTime": 1040,
+                    "title": "Ειδήσεις στη Νοηματική Γλώσσα",
+                    "startTime": 1030,
+                    "endTimeCaption": "17:20",
+                    "startTimeCaption": "17:10"
+                },
+                {
+                    "endTime": 1190,
+                    "title": "Crazy, Stupid, Love",
+                    "startTime": 1040,
+                    "endTimeCaption": "19:50",
+                    "startTimeCaption": "17:20"
+                },
+                {
+                    "endTime": 1260,
+                    "title": "Star News",
+                    "startTime": 1190,
+                    "endTimeCaption": "21:00",
+                    "startTimeCaption": "19:50"
+                },
+                {
+                    "endTime": 1395,
+                    "title": "Πώς να Εκπαιδεύσετε τον Δράκο σας 2 (How to Train Your Dragon 2)",
+                    "startTime": 1260,
+                    "endTimeCaption": "23:15",
+                    "startTimeCaption": "21:00"
+                },
+                {
+                    "endTime": 1530,
+                    "title": "Λούφα και Παραλλαγή",
+                    "startTime": 1395,
+                    "endTimeCaption": "01:30",
+                    "startTimeCaption": "23:15"
+                },
+                {
+                    "endTime": 1665,
+                    "title": "Δεσποινίς Διευθυντής",
+                    "startTime": 1530,
+                    "endTimeCaption": "03:45",
+                    "startTimeCaption": "01:30"
+                },
+                {
+                    "endTime": 1800,
+                    "title": "Εργένηδες για μια Εβδομάδα (Hall Pass)",
+                    "startTime": 1665,
+                    "endTimeCaption": "06:00",
+                    "startTimeCaption": "03:45"
+                }
+            ],
+            "channelName": "STAR HD"
+        },
+        {
+            "shows": [
+                {
+                    "endTime": 360,
+                    "title": "Αταίριαστοι (Ε)",
+                    "startTime": 255,
+                    "endTimeCaption": "06:00",
+                    "startTimeCaption": "04:15"
+                },
+                {
+                    "endTime": 600,
+                    "title": "Καλημέρα με τον Γιώργο Αυτιά",
+                    "startTime": 360,
+                    "endTimeCaption": "10:00",
+                    "startTimeCaption": "06:00"
+                },
+                {
+                    "endTime": 705,
+                    "title": "Ακραία Φαινόμενα",
+                    "startTime": 600,
+                    "endTimeCaption": "11:45",
+                    "startTimeCaption": "10:00"
+                },
+                {
+                    "endTime": 735,
+                    "title": "Eco News",
+                    "startTime": 705,
+                    "endTimeCaption": "12:15",
+                    "startTimeCaption": "11:45"
+                },
+                {
+                    "endTime": 840,
+                    "title": "dot.",
+                    "startTime": 735,
+                    "endTimeCaption": "14:00",
+                    "startTimeCaption": "12:15"
+                },
+                {
+                    "endTime": 890,
+                    "title": "Οι Ειδήσεις του ΣΚΑΪ",
+                    "startTime": 840,
+                    "endTimeCaption": "14:50",
+                    "startTimeCaption": "14:00"
+                },
+                {
+                    "endTime": 1050,
+                    "title": "Μαζί Σου Σαββατοκύριακο",
+                    "startTime": 890,
+                    "endTimeCaption": "17:30",
+                    "startTimeCaption": "14:50"
+                },
+                {
+                    "endTime": 1060,
+                    "title": "Δελτίο στη Νοηματική",
+                    "startTime": 1050,
+                    "endTimeCaption": "17:40",
+                    "startTimeCaption": "17:30"
+                },
+                {
+                    "endTime": 1120,
+                    "title": "Happy Traveller",
+                    "startTime": 1060,
+                    "endTimeCaption": "18:40",
+                    "startTimeCaption": "17:40"
+                },
+                {
+                    "endTime": 1190,
+                    "title": "Ο Πιο Αδύναμος Κρίκος",
+                    "startTime": 1120,
+                    "endTimeCaption": "19:50",
+                    "startTimeCaption": "18:40"
+                },
+                {
+                    "endTime": 1260,
+                    "title": "Τα Νέα του ΣΚΑΪ",
+                    "startTime": 1190,
+                    "endTimeCaption": "21:00",
+                    "startTimeCaption": "19:50"
+                },
+                {
+                    "endTime": 1470,
+                    "title": "Στην Υγειά μας ρε Παιδιά!",
+                    "startTime": 1260,
+                    "endTimeCaption": "00:30",
+                    "startTimeCaption": "21:00"
+                },
+                {
+                    "endTime": 1530,
+                    "title": "After Dark",
+                    "startTime": 1470,
+                    "endTimeCaption": "01:30",
+                    "startTimeCaption": "00:30"
+                },
+                {
+                    "endTime": 1635,
+                    "title": "Αρρωστημένη Εμμονή (Cruel Fixation)",
+                    "startTime": 1530,
+                    "endTimeCaption": "03:15",
+                    "startTimeCaption": "01:30"
+                },
+                {
+                    "endTime": 1695,
+                    "title": "Ο Πιο Αδύναμος Κρίκος (Ε)",
+                    "startTime": 1635,
+                    "endTimeCaption": "04:15",
+                    "startTimeCaption": "03:15"
+                }
+            ],
+            "channelName": "ΣΚΑΪ HD"
+        },
+        {
+            "shows": [
+                {
+                    "endTime": 330,
+                    "title": "Ελληνικό Πρόγραμμα",
+                    "startTime": 300,
+                    "endTimeCaption": "05:30",
+                    "startTimeCaption": "05:00"
+                },
+                {
+                    "endTime": 590,
+                    "title": "Τώρα Ό,τι Συμβαίνει",
+                    "startTime": 330,
+                    "endTimeCaption": "09:50",
+                    "startTimeCaption": "05:30"
+                },
+                {
+                    "endTime": 780,
+                    "title": "Έλα Χαμογέλα",
+                    "startTime": 590,
+                    "endTimeCaption": "13:00",
+                    "startTimeCaption": "09:50"
+                },
+                {
+                    "endTime": 810,
+                    "title": "Open News",
+                    "startTime": 780,
+                    "endTimeCaption": "13:30",
+                    "startTimeCaption": "13:00"
+                },
+                {
+                    "endTime": 880,
+                    "title": "Open Sport",
+                    "startTime": 810,
+                    "endTimeCaption": "14:40",
+                    "startTimeCaption": "13:30"
+                },
+                {
+                    "endTime": 1060,
+                    "title": "Αννίτα Κοίτα",
+                    "startTime": 880,
+                    "endTimeCaption": "17:40",
+                    "startTimeCaption": "14:40"
+                },
+                {
+                    "endTime": 1080,
+                    "title": "Open News στη Νοηματική",
+                    "startTime": 1060,
+                    "endTimeCaption": "18:00",
+                    "startTimeCaption": "17:40"
+                },
+                {
+                    "endTime": 1130,
+                    "title": "Αννίτα Κοίτα",
+                    "startTime": 1080,
+                    "endTimeCaption": "18:50",
+                    "startTimeCaption": "18:00"
+                },
+                {
+                    "endTime": 1200,
+                    "title": "Open News",
+                    "startTime": 1130,
+                    "endTimeCaption": "20:00",
+                    "startTimeCaption": "18:50"
+                },
+                {
+                    "endTime": 1260,
+                    "title": "Εικόνες",
+                    "startTime": 1200,
+                    "endTimeCaption": "21:00",
+                    "startTimeCaption": "20:00"
+                },
+                {
+                    "endTime": 1440,
+                    "title": "Just The 2 of Us",
+                    "startTime": 1260,
+                    "endTimeCaption": "00:00",
+                    "startTimeCaption": "21:00"
+                },
+                {
+                    "endTime": 1500,
+                    "title": "Criminal Minds Κ12 Ε14",
+                    "startTime": 1440,
+                    "endTimeCaption": "01:00",
+                    "startTimeCaption": "00:00"
+                },
+                {
+                    "endTime": 1560,
+                    "title": "Criminal Minds Κ12 Ε15",
+                    "startTime": 1500,
+                    "endTimeCaption": "02:00",
+                    "startTimeCaption": "01:00"
+                },
+                {
+                    "endTime": 1680,
+                    "title": "Κάποτε στη Ρώμη (When in Rome)",
+                    "startTime": 1560,
+                    "endTimeCaption": "04:00",
+                    "startTimeCaption": "02:00"
+                }
+            ],
+            "channelName": "OPEN BEYOND HD"
+        }
+    ]
+}

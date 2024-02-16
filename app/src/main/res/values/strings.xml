@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TVApp</string>
+    <string name="start_time">Start time %s</string>
+    <string name="end_time">End time %s</string>
+    <string name="channel_image_description">Channel image description</string>
+    <string name="ShowImageDescription">Show image</string>
+    <string name="No_internet">No internet. Cannot retrieve information</string>
+    <string name="No_description">No available description for this show</string>
+    <string name="Channel_Image_Description">Channel Image description</string>
+</resources>
